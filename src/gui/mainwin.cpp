@@ -1,4 +1,4 @@
-#include "../forms/mainwin.h"
+#include "mainwin.h"
 #include <QFileDialog>
 #include <QXmlStreamReader>
 #include <QtConcurrent>

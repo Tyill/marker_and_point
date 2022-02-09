@@ -2,7 +2,7 @@
 #include <QPainter>
 #include <QWheelEvent>
 
-#include "../forms/wdgPlot.h"
+#include "wdgPlot.h"
 
 wdgPlot::wdgPlot(QWidget *parent){
 
